@@ -1,0 +1,63 @@
+# Zombie Rush Moon Hub V7
+
+Welcome to the **Zombie Rush Moon Hub V7**! This script enhances your Zombie Rush gameplay with a variety of advanced features, customizations, and utilities. Use this README to get started and learn about the script's functionalities.
+
+## Features
+
+- **Silent Aim V2**: Enhanced silent aim capabilities.
+- **ESP (Extra Sensory Perception)**: See enemies, boxes, and names.
+- **Rainbow ESP**: Customizable rainbow-colored ESP with speed settings.
+- **Tracers**: Visual tracers pointing to zombies.
+- **Visuals**: Customizable visuals for Roblox characters and zombies, including arm and zombie visuals.
+- **Hacks vs. Hacks (HvH)**: Spinbot and kill-all functionalities.
+- **Notifications**: Built-in notifications for various updates and features.
+
+## Getting Started
+
+### Requirements
+- **Roblox Executor**: Compatible with any executor (e.g., Synapse X, Krnl, JJsploit).
+- **Moonlib Library**: Automatically loaded from the provided URL.
+
+### Installation
+1. **Load the Script**: Copy the entire script from the `Zombie Rush Moon Hub V7` repository.
+2. **Execute the Script**: Paste the script into your executor and run it in Roblox while in the Zombie Rush game.
+
+### Customization
+- **ESP Settings**: Adjust colors, text sizes, and outline thickness via the GUI.
+- **Rainbow ESP**: Enable and control the speed of the rainbow effect.
+- **Visuals**: Toggle arm and zombie visuals and customize their appearance.
+- **Tracers**: Enable and configure tracers for zombies.
+- **HvH Features**: Activate and adjust spinbot and kill-all functionalities.
+
+### GUI Controls
+- **Visuals Tab**: Customize ESP, tracers, and visuals.
+- **Main Tab**: Toggle silent aim, spinbot, and kill-all features.
+- **Notifications**: Receive updates on feature activation and status.
+
+### Example Usage
+1. **Enable ESP**: Toggle the ESP feature to start seeing zombies with visual indicators.
+2. **Customize Rainbow ESP**: Adjust the rainbow speed slider to change the rainbow effect's speed.
+3. **Activate Spinbot**: Toggle the spinbot feature for spinning actions.
+4. **Kill All Zombies**: Activate the kill-all toggle to eliminate all zombies in the game.
+
+## FAQ
+
+**Q: What should I do if the script fails to load?**
+A: Ensure you are using a compatible executor and that the Moonlib library URL is accessible.
+
+**Q: How can I report issues or request features?**
+A: Contact the script creator on Discord: [meowbucks]
+
+## Changelog
+- **V7**: Added advanced customization options, rainbow ESP, tracers, and more.
+- **V6**: Initial release with basic ESP and silent aim features.
+
+## Legal Disclaimer
+This script is intended for educational and personal use only. Use it responsibly and adhere to Roblox’s terms of service.
+
+## License
+This script is distributed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+Feel free to adjust or add more details to suit your needs!
